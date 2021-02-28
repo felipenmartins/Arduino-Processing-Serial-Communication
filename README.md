@@ -7,7 +7,9 @@ A screenshot of the example "Processing_Arduino_03.pde" is shown below. The bars
 
 # How to use the examples
 
-To use the examples you need to upload the .ino code to the Arduino and run the corresponding .pde code to Processing. For example, if you load the code "Arduino_Processing_01.ino" to the Arduino, you need to run the code "Processing_Arduino_01.pde" in Processing. There are three pairs with increasing complexity (from the simplest 01 to the more complex 03).
+First of all, you will need an Arduino board, a computer with Processing 2 or 3 installed, and a USB cable.
+
+To use the examples you need to upload the `.ino` code to the Arduino and run the corresponding `.pde` code to Processing. For example, if you load the code `Arduino_Processing_01.ino` to the Arduino, you need to run the code `Processing_Arduino_01.pde` in Processing. There are three pairs with increasing complexity (from the simplest _01 to the more complex _03).
 
 Make sure the Arduino is connected to the computer via a USB cable. Open Processing and run the corresponding code. 
 
@@ -25,7 +27,7 @@ Processing will print to the console the values received from the Arduino. If yo
 The second and third examples follow the same principle, but with increase complexity in the communication. It is a good exercise to try to understand the code yourself. You can watch [this video](https://youtu.be/IawITwewga8) for a short explanation.
 
 ## Test
-The code was tested with Arduino Uno R3 (programmed with the Arduino IDE 1.6.8) and Processing 2.2.1 running in Windows 10. 
+The code was tested with Arduino Uno R3 (programmed with the Arduino IDE 1.6.8 and 1.8.1) and Processing 2.2.1 and 3.3, running in Windows 10. 
 
 # License
 This project is licensed under the terms of the MIT license.
