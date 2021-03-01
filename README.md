@@ -30,4 +30,4 @@ The second and third examples follow the same principle, but with increase compl
 The code was tested with Arduino Uno R3 (programmed with the Arduino IDE 1.6.8 and 1.8.1) and Processing 2.2.1 and 3.3, running in Windows 10. 
 
 # License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the [MIT license](https://github.com/felipenmartins/Arduino-Processing-Serial-Communication/blob/master/LICENSE).
